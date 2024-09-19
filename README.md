@@ -1,4 +1,4 @@
-![logo](https://github.com/riiiiiyaaaaa/riiiiiiyaaaaa/blob/main/RIYA%20SANTOSH.png)
+![logo](https://github.com/riiiiiyaaaaa/riiiiiyaaaaa/blob/main/RIYA%20SANTOSH.png)
 <h1 align="center">Hi, I'm Riya :-)</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" width="300" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif">
